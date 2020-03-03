@@ -1,5 +1,5 @@
 # shiny
-R Shiny apps
+### R Shiny apps
 
 Mostly fun stuff
 
